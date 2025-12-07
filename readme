@@ -1,0 +1,41 @@
+# Identify Objects – Tire uma foto e descubra o que é!
+
+<div align="right"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR_FUTURE_SCREENSHOT_LINK" alt="Demo" width="800"/>
+  <br><br>
+  <strong>Uma aplicação web super simples e mágica: aponte a câmera, tire a foto e a inteligência artificial te diz o que está vendo em tempo real!</strong>
+</div>
+
+## Funcionalidades
+
+- Tire foto direto no navegador (celular ou notebook)
+- Identificação instantânea usando o modelo MobileNetV2 (treinado no ImageNet)
+- Resultado com nome do objeto + porcentagem de confiança
+- 100% offline depois do primeiro download do modelo
+- Zero configuração complicada
+
+## Demonstração
+
+![alt text](image.png)
+
+## Como rodar na sua máquina (Windows, Mac ou Linux)
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/jackson-fidelix/identify-objects
+cd identify-objects
+
+# 2. Crie e ative o ambiente virtual
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# Mac/Linux
+source venv/bin/activate
+
+# 3. Instale as dependências
+pip install -r requirements.txt
+
+# 4. Rode o app
+streamlit run index.py
