@@ -16,7 +16,8 @@
 
 ## Demonstração
 
-![alt text](image.png)
+<img width="773" height="549" alt="image" src="https://github.com/user-attachments/assets/f706a4a1-831f-4fd8-a725-ba0ed7283886" />
+
 
 ## Como rodar na sua máquina (Windows, Mac ou Linux)
 
