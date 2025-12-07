@@ -3,8 +3,6 @@
 <div align="right"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR_FUTURE_SCREENSHOT_LINK" alt="Demo" width="800"/>
-  <br><br>
   <strong>Uma aplicação web super simples e mágica: aponte a câmera, tire a foto e a inteligência artificial te diz o que está vendo em tempo real!</strong>
 </div>
 
